@@ -1,7 +1,8 @@
 const x = document.getElementsByClassName("assign");
 const y = ["Zack complains about head armor in warmup","A Zach","A Chanan","Table slam","Simcha gives bad advice","noT TilTEd","Someone gives up",
 "rush B","WHY NO ROTATE","Boost me","Yonah Buys auto","Lose Sg's round 2","5 stack","Disconnect","Random Pause","3 awps","mid rush pistol","terrible bomb drop","Always one in quad","Most MVP = Most Valuable",
-"Smurf on other team","rank trash talk","Haaaaaacking","Cmon peek me... dies","Background Noise","dont be a loser", "Dying to bomb when you defintley needed to","que god sac"];
+"Smurf on other team","rank trash talk","Haaaaaacking","Cmon peek me... dies","Background Noise","dont be a loser", "Dying to bomb when you defintley needed to","que god sac","Team flash!","hit teammate with util", "team knife", "did you see that?"
+	  ];
 
 
 
